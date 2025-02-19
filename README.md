@@ -8,12 +8,25 @@ The system includes a mobile app built with **Flutter** for the frontend and **P
 
 ## 📱 Mobile App Features (Flutter & PHP)
 
+### **Home Screen**
+![Mobile Home](./reavaya/mobil-home.png)
+
 - **Account Management**: Users can create and manage their accounts seamlessly.
 - **Balance & Transactions**: Check balances and view detailed transaction history.
 - **Funds Loading**: Easily load money into their accounts digitally.
+
+  ### **Bus Tracking & Route Planning**
+![Live Location](./reavaya/live-location.png)
+![Destination](./reavaya/destination.png)
 - **Bus Tracking**: View available buses and their real-time locations.
 - **Route Planning**: Get information about which bus to take and its complete route details.
+
+  ### **Payments & QR Code Scanning**
+![Card Payment](./reavaya/card-payment.png)
+![QR Scanner](./reavaya/scanner.png)
 - **QR Code Payments**: Use the system to scan QR codes at the station to pay for trips, with automatic balance deduction.
+
+  
 - **Real-time Information**: Access real-time bus information, including tracking and updates directly from the app.
 
 ## 💻 Web Dashboard (ASP.NET C# & PHP)
