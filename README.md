@@ -15,26 +15,51 @@ The system includes a mobile app built with **Flutter** for the frontend and **P
 - **Balance & Transactions**: Check balances and view detailed transaction history.
 - **Funds Loading**: Easily load money into their accounts digitally.
 
-  ### **Bus Tracking & Route Planning**
+### **Bus Tracking & Route Planning**
 ![Live Location](./reavaya/live-location.png)
 ![Destination](./reavaya/destination.png)
+
 - **Bus Tracking**: View available buses and their real-time locations.
 - **Route Planning**: Get information about which bus to take and its complete route details.
 
-  ### **Payments & QR Code Scanning**
+### **Payments & QR Code Scanning**
 ![Card Payment](./reavaya/card-payment.png)
 ![QR Scanner](./reavaya/scanner.png)
+
 - **QR Code Payments**: Use the system to scan QR codes at the station to pay for trips, with automatic balance deduction.
 
-  
+### **User Feedback & Customer Support**
+![Feedback](./reavaya/feedback.png)
+
 - **Real-time Information**: Access real-time bus information, including tracking and updates directly from the app.
+- **Customer Feedback**: Users can submit feedback to improve services.
+
+---
 
 ## 💻 Web Dashboard (ASP.NET C# & PHP)
+
+### **Admin Dashboard**
+![Dashboard Home](./reavaya/home-web.png)
+![System Stats](./reavaya/stats.png)
 
 - **System Metrics**: Management can view key analytics and performance reports for better decision-making.
 - **Customer Notifications**: Communicate updates, alerts, and other important information to users.
 - **Transaction Monitoring**: Track payments, balance loading activities, and system performance.
 - **User Management**: Efficiently oversee users' accounts, manage their activities, and offer customer support.
+
+---
+
+## 🔧 Tech Stack
+
+### **Frontend**
+- **Flutter** (Mobile App)
+- **ASP.NET (C#)** (Web Dashboard)
+
+### **Backend**
+- **PHP** (Server & APIs)
+- **MySQL** (Database for storing user balances, transactions, and bus data)
+
+---
 
 ## 🔧 Tech Stack
 
