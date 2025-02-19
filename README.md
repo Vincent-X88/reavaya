@@ -52,3 +52,6 @@ The system includes a mobile app built with **Flutter** for the frontend and **P
 - Open the project in Visual Studio or your preferred IDE.
 - Configure API endpoints in the dashboard for data retrieval.
 - Run the application.
+
+ # ** 📜 License **
+This project is not open-source and is protected under copyright. All rights are reserved to the author. No modifications, redistributions, or commercial use are allowed without prior consent from the project owner.
