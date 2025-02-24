@@ -39,7 +39,7 @@ class DestinationScreen extends StatefulWidget {
 
 class _DestinationScreenState extends State<DestinationScreen> {
   GoogleMapPolyline googleMapPolyline =
-      GoogleMapPolyline(apiKey: 'AIzaSyCOyYjgQSM-cxkB5nmtvKOeh4cMPAfrc0M');
+      GoogleMapPolyline(apiKey: '');
   final CurrentUser _rememberCurrentUser = Get.put(CurrentUser());
 
   String? selectedPickup;
